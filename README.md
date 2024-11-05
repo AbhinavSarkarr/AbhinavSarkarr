@@ -4,8 +4,8 @@ I am an LLM/AI Engineer proficient in Prompt Engineering, Retrieval-Augmented Ge
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsarkarr) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinavsarkar53) 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?logo=huggingface&logoColor=white)](https://huggingface.co/abhinavsarkar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinavsarkar53) 
 
 
 # 💻 Tech Stack:
