@@ -79,8 +79,3 @@ I am an AI/ML Engineer proficient in **Prompt Engineering**, **Retrieval-Augment
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abhinavsarkarr&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
-**Proudly crafted with GPRM** (https://gprm.itsvg.in)
