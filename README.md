@@ -1,24 +1,95 @@
 # 💫 About Me:
-I am an LLM/AI Engineer proficient in Prompt Engineering, Retrieval-Augmented Generation (RAG), fine-tuning LLMs, and creating custom LLMs. Holding a bachelor's degree in Artificial Intelligence and Machine Learning, I have a robust foundation in machine learning (ML) and deep learning (DL) concepts. My expertise extends to data pre-processing, feature engineering and  model deployment. I am adept at utilizing advanced techniques in natural language processing (NLP), computer vision (CV), and reinforcement learning (RL). My skills include working with frameworks such as TensorFlow, Hugging Face Transformers, and I have experience in building and deploying end-to-end data pipelines and scalable ML solutions
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsarkarr) 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?logo=huggingface&logoColor=white)](https://huggingface.co/abhinavsarkar)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinavsarkar53) 
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhinavsarkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhinavsarkarr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsarkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhinavsarkarr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am an AI/ML Engineer proficient in **Prompt Engineering**, **Retrieval-Augmented Generation (RAG)**, fine-tuning **LLMs**, and creating custom **LLMs**. Holding a bachelor's degree in **Artificial Intelligence and Machine Learning**, I have a strong foundation in **machine learning (ML)** and **deep learning (DL)**. My expertise extends to **data preprocessing**, **feature engineering**, and **model deployment**. I am skilled in advanced techniques in **natural language processing (NLP)**, **computer vision (CV)**, and **reinforcement learning (RL)**. I work with frameworks such as **TensorFlow**, **Hugging Face Transformers**, and have experience in building and deploying end-to-end **data pipelines** and scalable **ML solutions**.
 
 ---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsarkarr)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?logo=huggingface&logoColor=white)](https://huggingface.co/abhinavsarkar)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinavsarkar53)  
+
+---
+
+## 💻 Tech Stack:
+
+### **Programming Languages:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### **Machine Learning & Deep Learning:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **NLP & RAG:**
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?logo=huggingface&logoColor=white)  
+![SpaCy](https://img.shields.io/badge/SpaCy-%23000157.svg?style=for-the-badge&logo=spacy&logoColor=white)
+
+### **Cloud & DevOps:**
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)  
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### **Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavsarkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavsarkarr&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsarkarr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Contributions:
+![Top Contributor](https://github-contributor-stats.vercel.app/api?username=abhinavsarkarr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 💼 Projects:
+
+- **[Custom LLM Fine-Tuning](https://github.com/abhinavsarkarr/Custom-LLM-Finetuning)**  
+  Fine-tuned a large language model (Meta-Llama-3-8B) using Gen Z slang data for optimized responses.
+
+- **[AI-Driven Chatbot (RAG)](https://github.com/abhinavsarkarr/AI-Chatbot-RAG)**  
+  Developed an intelligent chatbot using Retrieval-Augmented Generation (RAG) for personalized user queries.
+
+- **[Document VQA](https://github.com/abhinavsarkarr/Florence-2-FT-DocVQA)**  
+  Worked on a Visual Question Answering (VQA) system for document-based questions using custom-trained models.
+
+- **[Resume Parser](https://github.com/abhinavsarkarr/Resume-Parser)**  
+  Built a resume parsing application to extract and analyze resume data for recruitment purposes.
+
+- **[SaaS Chatbot Platform](https://github.com/abhinavsarkarr/SaaS-Chatbot-Platform)**  
+  Created a SaaS platform for users to build custom chatbots using their own data with a RAG pipeline.
+
+---
+
+## 🧠 Research & Publications:
+- **Comprehensive Survey on Answer Generation Methods Using NLP**  
+  Published in the *Natural Language Processing Journal*, available on [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2949719124000360?via%3Dihub).
+
+---
+
+## 🏅 Achievements:
+- Created end-to-end **AI pipelines** and **data workflows** for production-level deployment.
+- Contributed to **AI applications** across multiple domains such as **NLP**, **CV**, and **recommendation systems**.
+- Experienced in **model optimization**, **hyperparameter tuning**, and **scaling ML solutions**.
+
+---
+
+## ⚡ Fun Facts:
+- I am passionate about **VFX** and love exploring creative AI applications in the visual effects space.
+- A foodie who finds comfort in **Paneer Biryani** and **chicken dishes**, with a deep appreciation for great food.
+- I enjoy helping others learn about **AI/ML**, so feel free to reach out for discussions or collaboration.
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=abhinavsarkarr&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+**Proudly crafted with GPRM** (https://gprm.itsvg.in)
